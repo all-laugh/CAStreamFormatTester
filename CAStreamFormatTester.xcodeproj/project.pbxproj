@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5042893A27665DEE00455B05 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5042893927665DEE00455B05 /* main.m */; };
+		5042893A27665DEE00455B05 /* CAStreamFormatTester.m in Sources */ = {isa = PBXBuildFile; fileRef = 5042893927665DEE00455B05 /* CAStreamFormatTester.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		5042893627665DEE00455B05 /* CAStreamFormatTester */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CAStreamFormatTester; sourceTree = BUILT_PRODUCTS_DIR; };
-		5042893927665DEE00455B05 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		5042893927665DEE00455B05 /* CAStreamFormatTester.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CAStreamFormatTester.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		5042893827665DEE00455B05 /* CAStreamFormatTester */ = {
 			isa = PBXGroup;
 			children = (
-				5042893927665DEE00455B05 /* main.m */,
+				5042893927665DEE00455B05 /* CAStreamFormatTester.m */,
 			);
 			path = CAStreamFormatTester;
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5042893A27665DEE00455B05 /* main.m in Sources */,
+				5042893A27665DEE00455B05 /* CAStreamFormatTester.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
